@@ -82,7 +82,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_marginLeft="15.0dip"
                 android:singleLine="true"
-                android:text=""兰州
+                android:text="兰州"
                 android:textColor="@android:color/white"
                 android:textSize="40.0sp" />
             <!-- 发布时间 -->
